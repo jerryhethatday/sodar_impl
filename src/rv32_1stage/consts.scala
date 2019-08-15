@@ -4,7 +4,7 @@
 //
 // Christopher Celio
 // 2011 May 28
-
+//init 
 package Sodor
 package constants
 {
